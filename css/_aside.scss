@@ -20,7 +20,14 @@ aside{
 				border-bottom: 1px solid rgba(#fff, .2);
 				padding: 10px 0;
 
-				
+				a{
+					color:#fff;
+					text-decoration: none;
+					&:hover{
+						color:#8f8f8f;
+					}
+
+				}
 			}
 		}
 	
