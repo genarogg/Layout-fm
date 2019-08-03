@@ -13,7 +13,16 @@ aside{
 			border-bottom: 1px solid #ff8000;
 			margin-bottom: 10px;
 		}
-		
+		ul{
+			list-style: none;
+
+			li{
+				border-bottom: 1px solid rgba(#fff, .2);
+				padding: 10px 0;
+
+				
+			}
+		}
 	
 	}
 }
